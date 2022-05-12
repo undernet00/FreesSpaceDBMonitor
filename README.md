@@ -1,2 +1,2 @@
 # FreesSpaceDBMonitor
- Monitors en alerts about free space on SQL Server Express deployed databases.
+ Monitors and alerts about free space on SQL Server Express deployed databases.
